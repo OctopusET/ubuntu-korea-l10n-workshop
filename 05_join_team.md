@@ -6,7 +6,7 @@
 
 2) Join the team 을 클릭하여 신청합니다.
 
-3) 메일링을 구독합니다.
+3) 메일링을 구독합니다. (https://lists.ubuntu.com/mailman/listinfo/ubuntu-ko)
 
 ![](media/ubuntu-ko-mailing.png)
 
